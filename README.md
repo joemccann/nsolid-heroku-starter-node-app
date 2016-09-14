@@ -10,7 +10,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 $ git clone git@github.com:joemccann/nsolid-heroku-starter-nodejs-app.git # or clone your own fork
-$ cd nsolid-heroku-starter-nodejs-ap
+$ cd nsolid-heroku-starter-nodejs-app
 $ npm install
 $ node app
 ```
