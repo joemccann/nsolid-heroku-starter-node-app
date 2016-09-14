@@ -1,0 +1,6 @@
+{
+  "name": "Getting Started on Heroku with N|Solid and Node.js",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/joemccann/nsolid-heroku-starter-nodejs-ap.git",
+  "keywords": ["node", "express", "nsolid", "nodesource"]
+}

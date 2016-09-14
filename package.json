@@ -1,0 +1,32 @@
+{
+  "name": "nsolid-heroku-starter-nodejs-app",
+  "version": "0.0.1",
+  "description": "Node.js Starter App Powered by N|Solid on Heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemccann/nsolid-2.0-heroku-buildpack.git"
+  },
+  "keywords": [
+    "nsolid",
+    "heroku"
+  ],
+  "author": "Joe McCann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemccann/nsolid-2.0-heroku-buildpack/issues"
+  },
+  "homepage": "https://github.com/joemccann/nsolid-2.0-heroku-buildpack#readme",
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
