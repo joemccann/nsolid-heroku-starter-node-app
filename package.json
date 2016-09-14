@@ -6,9 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "nsolid": "2.0.0-argon-rc.1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joemccann/nsolid-2.0-heroku-buildpack.git"
+    "url": "https://github.com/joemccann/nsolid-heroku-starter-node-app.git"
   },
   "keywords": [
     "nsolid",
@@ -17,9 +20,9 @@
   "author": "Joe McCann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joemccann/nsolid-2.0-heroku-buildpack/issues"
+    "url": "https://github.com/joemccann/nsolid-heroku-starter-node-app/issues"
   },
-  "homepage": "https://github.com/joemccann/nsolid-2.0-heroku-buildpack#readme",
+  "homepage": "https://github.com/joemccann/nsolid-heroku-starter-node-app#readme",
   "dependencies": {
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
